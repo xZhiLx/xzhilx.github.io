@@ -1,0 +1,11 @@
+baseURL = "https://xzhilx.github.io"
+theme = "LoveIt"
+title = "My Website"
+defaultContentLanguage = "en"
+languageCode = "en"
+languageName = "English"
+hasCJKLanguage = false
+paginate = 12
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = true
