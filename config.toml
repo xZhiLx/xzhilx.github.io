@@ -68,7 +68,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     hugo = false
     copyright = true
     author = true
-    since = 2019
+    since = 2023
     icp = ""
     license= '<a rel="This is free and unencumbered software released into the public domain." href="https://unlicense.org" target="_blank">The Unlicense</a>'
 
@@ -109,7 +109,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       gravatarEmail = ""
-      avatarURL = "/images/9c00b60f26c99acad7327a3e25ac52b2d1dbc917be19747f74e1da68dff30922.png"
+     #avatarURL = "/images/9c00b60f26c99acad7327a3e25ac52b2d1dbc917be19747f74e1da68dff30922.png"
       title = "ZhiL Security"
       subtitle = "Hey everyone! I’m ZhiL. I’m a malware analyst and security analyst who has been in the cybersecurity industry for more than 3 years. I’ve worked on everything that revolves to DFIR."
       typeit = false
