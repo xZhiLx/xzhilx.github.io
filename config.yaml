@@ -1,4 +1,4 @@
-baseURL = "https://xzhilx.github.io"
+baseURL = "https://xzhilx.github.io/"
 theme = "LoveIt"
 title = "My Website"
 defaultContentLanguage = "en"
